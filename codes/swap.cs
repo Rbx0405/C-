@@ -24,4 +24,3 @@ public class Exercise5
         Console.Read(); 
     }
 }
-
